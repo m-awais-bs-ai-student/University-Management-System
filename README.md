@@ -1,3 +1,6 @@
+[![Language](https://img.shields.io/badge/language-C++-%2300599C.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Standard](https://img.shields.io/badge/std-C++17-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 # Student Management System (Using Dynamic Memory) 🎓
 
 A console-based **Student Management System** written in **C++**. This project focuses on **Object-Oriented Programming (OOP)** and **Dynamic Memory Allocation**. Unlike standard vector-based systems, this application manually manages memory on the heap using pointers (`new` and `delete`), offering a deep dive into low-level memory handling in C++.
